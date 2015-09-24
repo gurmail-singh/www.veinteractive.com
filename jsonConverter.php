@@ -53,12 +53,24 @@ echo json_encode($xml_Excerpt);
 ?>
 
 <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script type="text/javascript" src="jquery.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script type="text/javascript" src="jquery.js"></script>
+    <ink rel="stylesheet" type="text/css" href="theme.css">
 </head>
-<form method="post">
-        <textarea id="xmlTextArea" cols="60" rows="7">Hello world<?php echo $xml_string;?></textarea> 
-		<textarea id="jsonTextArea" cols="60" rows="7"></textarea> 
-        <br />        
-        <button id="btnConvertJSON" onclick="JSONpopulate()" type="button">Convert to JSON</button>
-</form>
+<body>
+    <div id="header">
+        <h1>VEInteractive Test</h1>
+    </div>
+    <div id="main">
+        <form method="post">
+            <textarea id="xmlTextArea" cols="60" rows="15">Hello world<?php echo $xml_string;?></textarea> 
+            <textarea id="jsonTextArea" cols="60" rows="15"></textarea> 
+            <br />        
+            <button id="btnConvertJSON" onclick="JSONpopulate()" type="button">Convert to JSON</button>
+        </form>
+    </div>
+    
+    <div id="footer">
+        By Gurmail Singh
+    </div>
+</body>
