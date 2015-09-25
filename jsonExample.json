@@ -1,0 +1,84 @@
+{
+	"general": {
+		"showintro": "true",
+		"usebutton": "true",
+		"userollover": "true",
+		"clicktag": "https:\/\/veads.veinteractive.com\/click.php?cond=7481&afs=1&link=%5Bfeed%3AI%5D",
+		"rootfolder": "https:\/\/veads.veinteractive.com\/",
+		"prootfolder": "https:\/\/veads-content.veinteractive.com\/",
+		"ssl": "1",
+		"stagewidth": "300",
+		"stageheight": "250",
+		"logoimage": "image\/",
+		"logobgcolour": {
+			
+		},
+		"bgcolour": {
+			
+		},
+		"bgimage": "image\/16254\/n\/0\/0\/",
+		"multiimage": {
+			
+		},
+		"textmarginleft": {
+			
+		},
+		"textmarginright": {
+			
+		},
+		"headercolour": {
+			
+		},
+		"subheadercolour": {
+			
+		},
+		"intro": {
+			
+		},
+		"introimage": {
+			
+		},
+		"introlink": {
+			
+		}
+	},
+	"additional": {
+		
+	},
+	"scenes": {
+		"scene": [{
+			"headline": "buttonType|1|deal||promo||promoIMG||terms||name|GALAXY LITTLE TREAT CHOCOLATES|wasPrice|Was \u00a3VALUE|wasPriceValue|0.00|nowPrice|\u00a3VALUE|nowPriceValue|0.35|saveSquircleText|SAVE \u00a3VALUE|saveSquircleValue|0.00|pageBgColour|FFFFFF|pageBgAlpha|0|buttonText|More Info|buttonBgGlow|000000|buttonBgColour|00ccff|buttonBgAlpha|0|textColour|585858|textHighlightColour|FFFFFF|saveSquircleTextColour|F37325|saveSquircleBgColour|ff00000|sqShape|default|iab|1|pixel||",
+			"subheader": {
+				
+			},
+			"delay": {
+				
+			},
+			"fgimage": "image\/aHR0cDovL3d3dy5hcmdvcy5jby51ay93Y3NzdG9yZS9hcmdvcy9pbWFnZXMvOTQxMDktNzc3Nzc3Ny1BTVcxMTZYLmpwZw==\/proxy\/155\/101\/40",
+			"clicktag": "https:\/\/veads.veinteractive.com\/click.php?cond=7481&afs=1&link=http%3A%2F%2Fwww.argos.co.uk%2Fstatic%2FProduct%2FpartNumber%2F2827683.htm%3FCMPID%3DDRT01%26_%24ja%3Dtsid%3A29247%7Ccc%3A%7Cprd%3A2827683%7Ccat%3Agifts%2B%253E%2B"
+		},
+		{
+			"headline": "buttonType|1|deal||promo||promoIMG||terms||name|SANTA HAT|wasPrice|Was \u00a3VALUE|wasPriceValue|0.00|nowPrice|\u00a3VALUE|nowPriceValue|0.39|saveSquircleText|SAVE \u00a3VALUE|saveSquircleValue|0.00|pageBgColour|FFFFFF|pageBgAlpha|0|buttonText|More Info|buttonBgGlow|000000|buttonBgColour|00ccff|buttonBgAlpha|0|textColour|585858|textHighlightColour|FFFFFF|saveSquircleTextColour|F37325|saveSquircleBgColour|ff00000|sqShape|default|iab|1|pixel||",
+			"subheader": {
+				
+			},
+			"delay": {
+				
+			},
+			"fgimage": "image\/aHR0cDovL3d3dy5hcmdvcy5jby51ay93Y3NzdG9yZS9hcmdvcy9pbWFnZXMvNDAtMzU4NzcxOWFTU1VDMTU5NDI2MVguanBn\/proxy\/155\/101\/40",
+			"clicktag": "https:\/\/veads.veinteractive.com\/click.php?cond=7481&afs=1&link=http%3A%2F%2Fwww.argos.co.uk%2Fstatic%2FProduct%2FpartNumber%2F3587719.htm%3FCMPID%3DDRT01%26_%24ja%3Dtsid%3A29247%7Ccc%3A%7Cprd%3A3587719%7Ccat%3Agifts%2B%253E%2B"
+		},
+		{
+			"headline": "buttonType|1|deal||promo||promoIMG||terms||name|TRADITIONAL COMPACT GAMES|wasPrice|Was \u00a3VALUE|wasPriceValue|0.00|nowPrice|\u00a3VALUE|nowPriceValue|0.49|saveSquircleText|SAVE \u00a3VALUE|saveSquircleValue|0.00|pageBgColour|FFFFFF|pageBgAlpha|0|buttonText|More Info|buttonBgGlow|000000|buttonBgColour|00ccff|buttonBgAlpha|0|textColour|585858|textHighlightColour|FFFFFF|saveSquircleTextColour|F37325|saveSquircleBgColour|ff00000|sqShape|default|iab|1|pixel||",
+			"subheader": {
+				
+			},
+			"delay": {
+				
+			},
+			"fgimage": "image\/aHR0cDovL3d3dy5hcmdvcy5jby51ay93Y3NzdG9yZS9hcmdvcy9pbWFnZXMvMTYxLTEwNjU1ODdVQzE0MzM3NzJYLmpwZw==\/proxy\/155\/101\/40",
+			"clicktag": "https:\/\/veads.veinteractive.com\/click.php?cond=7481&afs=1&link=http%3A%2F%2Fwww.argos.co.uk%2Fstatic%2FProduct%2FpartNumber%2F1065587.htm%3FCMPID%3DDRT01%26_%24ja%3Dtsid%3A29247%7Ccc%3A%7Cprd%3A1065587%7Ccat%3Atoys%2B%253E%2Bgames%2Band%2Bboard%2Bgames"
+		}]
+	},
+	"debuginfo": "\n        \n                                        0: Add &_debug=1 to URL\n                                \n        "
+}

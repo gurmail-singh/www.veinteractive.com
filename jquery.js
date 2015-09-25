@@ -1,9 +1,3 @@
-$(function() {
-	$("#btnConvertJSON").click(function(){
-        $("#jsonTextArea").show();
-    });
-});
-
 function JSONpopulate() {
   $.ajax({
     type: "POST",
@@ -14,5 +8,3 @@ function JSONpopulate() {
     }
   });
 }
- 
- 
